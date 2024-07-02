@@ -1,8 +1,8 @@
 Hi 👋,I'm Sakshi Kasar
 
--🔭 I’m have learned core and advance java.
+- 🔭 I have completed core and advance java.
 - 🌱 I’m currently learned about Data Structure,C,Php,html,css.
-- 💬 Ask me about
+- 💬 Ask me about Data Structure,C,Php,Html,Css,Javascript.
 - 📫 How to reach me::sakshikasar141@gmail.com
-- ⚡ Fun fact: I am serious.
+- ⚡ Fun fact:----
 
