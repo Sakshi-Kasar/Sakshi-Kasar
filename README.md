@@ -21,7 +21,7 @@ I'm a **java developer** with a passion for **java programming** and **DSA**.
 
 - **Project Name**: My Second Project is chatbot in java
 - **Description**: Based on awt,swing.
-- **Link**: [Project Link](link unavailable)
+- **Link**: [https://github.com/Sakshi-Kasar/Chatbot.git](https://github.com/Sakshi-Kasar/Chatbot.git)
 
 
 
