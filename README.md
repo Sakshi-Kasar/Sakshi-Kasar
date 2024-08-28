@@ -1,9 +1,27 @@
-Hi 👋,I'm Sakshi Kasar
+# My Profile
 
-- 🔭 I have completed core and advance java.
-- 🌱 I’m currently learned about Data Structure,C,Php,html,css.
-- 💬 Ask me about Data Structure,C,Php,Html,Css,Javascript.
-- 📫 How to reach me::sakshikasar141@gmail.com
-- ⚡ Fun fact:----
-  
+## About Me
+
+I'm a **java developer** with a passion for **java programming** and **DSA**.
+
+### Contact Me
+
+- Email: [sakshikasar141@gmail.com](mailto:sakshikasar141@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](link unavailable)
+
+## My Projects
+
+### Project 1
+
+- **Project Name**: My First Project is on simple calculator in java 
+- **Description**: Based on awt,swing.
+- **Link**: [Project Link](link unavailable)
+
+### Project 2
+
+- **Project Name**: My Second Project is chatbot in java
+- **Description**: Based on awt,swing.
+- **Link**: [Project Link](link unavailable)
+
+
 
