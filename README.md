@@ -7,7 +7,7 @@ I'm a **java developer** with a passion for **java programming** and **DSA**.
 ### Contact Me
 
 - Email: [sakshikasar141@gmail.com](mailto:sakshikasar141@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](link unavailable)
+- LinkedIn: [www.linkedin.com/in/sakshi-somnath-kasar-404632269](www.linkedin.com/in/sakshi-somnath-kasar-404632269)
 
 ## My Projects
 
