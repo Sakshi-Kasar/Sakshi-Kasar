@@ -15,7 +15,7 @@ I'm a **java developer** with a passion for **java programming** and **DSA**.
 
 - **Project Name**: My First Project is on Krushi-Seva-Kendra  in java 
 - **Description**: Based on awt,swing.
-- **Link**: [https://github.com/Sakshi-Kasar/Krushi-Seva-Kendra.git)
+- **Link**: https://github.com/Sakshi-Kasar/Krushi-Seva-Kendra.git
 
 ### Project 2
 
