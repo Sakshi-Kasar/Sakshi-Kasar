@@ -13,7 +13,7 @@ I'm a **java developer** with a passion for **java programming** and **DSA**.
 
 ### Project 1
 
-- **Project Name**: My First Project is on simple calculator in java 
+- **Project Name**: My First Project is on Krushi-Seva-Kendra  in java 
 - **Description**: Based on awt,swing.
 - **Link**: [https://github.com/Sakshi-Kasar/Simple-calculator.git](https://github.com/Sakshi-Kasar/Simple-calculator.git)
 
