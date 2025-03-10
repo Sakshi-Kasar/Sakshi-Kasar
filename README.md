@@ -15,13 +15,13 @@ I'm a **python developer** with a passion for **python programming** and **DSA**
 
 - **Project Name**: My First Project is on Student information system  in python 
 - **Description**: Based on File System and Exception handling concepts using pickle and sys module in python.
-- **Link**: https://github.com/Sakshi-Kasar/Krushi-Seva-Kendra.git
+- **Link**: https://github.com/Sakshi-Kasar/Student-Information-System.git
 
 ### Project 2
 
 - **Project Name**: My Second Project is Database connectivity 
 - **Description**: Based on mysql connectivity to python .
-- **Link**: [https://github.com/Sakshi-Kasar/Chatbot.git](https://github.com/Sakshi-Kasar/Chatbot.git)
+- **Link**:
 
 
 
