@@ -21,7 +21,7 @@ I'm a **python developer** with a passion for **python programming** and **DSA**
 
 - **Project Name**: My Second Project is Database connectivity PDBC to MySQL 
 - **Description**: Based on mysql connectivity to python It's an employee management system.
-- **Link**:https://github.com/Sakshi-Kasar/Student-Information-System.git
+- **Link**:https://github.com/Sakshi-Kasar/Employee_Management_System.git
 
 
 
